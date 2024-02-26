@@ -6,3 +6,5 @@ Repositório de Produtos Técnico-Tecnológicos (PTTs) do Programa de Pós-Gradu
 
 [Clique aqui para acessar o formulário de registro de PTT.](https://pages.github.com/)
 
+[Acesse a documentação do Markdown](https://guides.github.com/features/mastering-markdown/ "Documentação do Markdown" target="_blank")
+
